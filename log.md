@@ -11,7 +11,7 @@
 
 ### Day 0: 7.22.2017
 
-**Today's Progress**: Starting again, working on Kelcy's site
+**Today's Progress**: Starting again, working on Kelcy's site. WOW! Ended up worling for about 10 hours, got another theme installed all the way, old theme looks hopeless, constant PHPO errors since we're going from PHP 4 oto PHP 7
 
 **Thoughts:** took some days off, I lack discipline! Esse quam videri!
 
